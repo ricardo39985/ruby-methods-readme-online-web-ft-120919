@@ -101,7 +101,7 @@ def say_hello_world_ten_times
 end
 ```
 
-Now, when we use the bareword `say_hello_world_ten_times` in our program, it
+Now, when we use the bareword `say_hello_world_ten_times` in our program, i
 will invoke the method, running the code within the method. So the script above,
 saying hello ten times, doing other things, then saying hello ten times again
 could be rewritten as this:
